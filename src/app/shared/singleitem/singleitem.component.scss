@@ -1,0 +1,91 @@
+.single-listing-item {
+    background-color: #fff;
+    box-shadow: 0 8px 16px 0 rgb(146 184 255 / 20%);
+    transition: .5s;
+    margin-bottom: 30px;
+    &:hover {
+        box-shadow: 0 8px 16px 0 rgb(146 184 255 / 80%);
+    }
+    .listing-image {
+        border-radius: 5px 5px 0 0;
+        position: relative;
+        .listing-tag {
+            position: absolute;
+            right: 20px;
+            bottom: 0;
+            background-color: #fff;
+            border-radius: 5px 5px 0 0;
+            transition: .5s;
+            padding: 5px 15px;
+            font-size: 14px;
+            font-weight: 600;
+        }    
+        a {
+            img {
+                border-radius: 5px 5px 0 0;
+            }
+        }
+
+    }
+    .listing-content {
+        padding: 25px 20px;
+        .listing-author {
+            margin-bottom: 16px;
+            span {
+                margin-left: 3px;
+                display: inline-block;
+                font-size: 15px;
+                font-weight: 600;
+            }
+        }
+        .listing-author img {
+            width: 37px;
+            height: 37px;
+        }
+        h3 {
+            margin-bottom: 0;
+            line-height: 1.3;
+            font-size: 22px;
+            font-weight: 700;
+        }
+        .location {
+            display: block;
+            color: #4a6f8a;
+            margin-top: 12px;
+            position: relative;
+            font-size: 13.5px;
+            font-weight: 600;
+        }
+    }
+    .listing-box-footer {
+        border-top: 1px solid #e2f4ff;
+        padding: 20px;
+        .price {
+            span {
+                display: inline-block;
+                cursor: pointer;
+                color: #088dd3;
+                font-weight: 600;
+                font-size: 15px;
+            }
+        }
+        .listing-option-list  {
+            a {
+                display: inline-block;
+                width: 32px;
+                height: 32px;
+                line-height: 33px;
+                text-align: center;
+                margin-right: 5px;
+                box-shadow: 0 0 15px 0 rgb(0 0 0 / 10%);
+                background-color: #fff;
+                color: #000;
+                border-radius: 2px;
+            }
+        }
+    }
+}
+
+.rounded-circle {
+    border-radius: 50%;
+}

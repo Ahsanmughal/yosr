@@ -1,0 +1,238 @@
+{
+  "list": [    
+    {
+      "id": 1,
+      "img": "https://res.cloudinary.com/djpepozcx/image/upload/v1629493929/yosr/img1.jpg",
+      "title": "Logan Brown",
+      "category": "Resturant",
+      "address": "40 Journal Square, NG USA",
+      "price": "1500",
+      "type": "popular",
+      "user": {
+        "name": "Sarah Taylor",
+        "img": "https://res.cloudinary.com/djpepozcx/image/upload/v1629494192/yosr/user2.jpg"
+      }
+    },
+    {
+      "id": 2,
+      "img": "https://res.cloudinary.com/djpepozcx/image/upload/v1629493949/yosr/img2.jpg",
+      "title": "Mall of America",
+      "category": "Shopping",
+      "address": "40 Journal Square, NG USA",
+      "price": "1500",
+      "type": "recomended",
+      "user": {
+        "name": "Steven Smith",
+        "img": "https://res.cloudinary.com/djpepozcx/image/upload/v1629494168/yosr/user1.jpg"
+      }
+    },
+    {
+      "id": 3,
+      "img": "https://res.cloudinary.com/djpepozcx/image/upload/v1629493960/yosr/img3.jpg",
+      "title": "York Street GYM",
+      "category": "Gym",
+      "address": "40 Journal Square, NG USA",
+      "price": "1500",
+      "type": "popular",
+      "user": {
+        "name": "James Andy",
+        "img": "https://res.cloudinary.com/djpepozcx/image/upload/v1629494212/yosr/user3.jpg"
+      }
+    },
+    {
+      "id": 4,
+      "img": "https://res.cloudinary.com/djpepozcx/image/upload/v1629493970/yosr/img4.jpg",
+      "title": "Skyview Bar",
+      "category": "Bar",
+      "address": "40 Journal Square, NG USA",
+      "price": "1500",
+      "type": "recomended",
+      "user": {
+        "name": "Hashir",
+        "img": "https://res.cloudinary.com/djpepozcx/image/upload/v1629494226/yosr/user4.jpg"
+      }
+    },
+    {
+      "id": 5,
+      "img": "https://res.cloudinary.com/djpepozcx/image/upload/v1629493984/yosr/img5.jpg",
+      "title": "Farmis Garden Restaurant",
+      "category": "Resturant",
+      "address": "40 Journal Square, NG USA",
+      "price": "1500",
+      "type": "popular",
+      "user": {
+        "name": "Paresh",
+        "img": "https://res.cloudinary.com/djpepozcx/image/upload/v1629494264/yosr/user6.jpg"
+      }
+    },
+    {
+      "id": 6,
+      "img": "https://res.cloudinary.com/djpepozcx/image/upload/v1629493996/yosr/img6.jpg",
+      "title": "Foundation Club",
+      "category": "Club",
+      "address": "40 Journal Square, NG USA",
+      "price": "1500",
+      "type": "recomended",
+      "user": {
+        "name": "Sean",
+        "img": "https://res.cloudinary.com/djpepozcx/image/upload/v1629494242/yosr/user5.jpg"
+      }
+    },
+    {
+      "id": 7,
+      "img": "https://res.cloudinary.com/djpepozcx/image/upload/v1629493929/yosr/img1.jpg",
+      "title": "Logan Brown",
+      "category": "Resturant",
+      "address": "40 Journal Square, NG USA",
+      "price": "1500",
+      "type": "popular",
+      "user": {
+        "name": "Sarah Taylor",
+        "img": "https://res.cloudinary.com/djpepozcx/image/upload/v1629494192/yosr/user2.jpg"
+      }
+    },
+    {
+      "id": 8,
+      "img": "https://res.cloudinary.com/djpepozcx/image/upload/v1629493949/yosr/img2.jpg",
+      "title": "Mall of America",
+      "category": "Shopping",
+      "address": "40 Journal Square, NG USA",
+      "price": "1500",
+      "type": "recomended",
+      "user": {
+        "name": "Steven Smith",
+        "img": "https://res.cloudinary.com/djpepozcx/image/upload/v1629494168/yosr/user1.jpg"
+      }
+    },
+    {
+      "id": 9,
+      "img": "https://res.cloudinary.com/djpepozcx/image/upload/v1629493960/yosr/img3.jpg",
+      "title": "York Street GYM",
+      "category": "Gym",
+      "address": "40 Journal Square, NG USA",
+      "price": "1500",
+      "type": "popular",
+      "user": {
+        "name": "James Andy",
+        "img": "https://res.cloudinary.com/djpepozcx/image/upload/v1629494212/yosr/user3.jpg"
+      }
+    },
+    {
+      "id": 10,
+      "img": "https://res.cloudinary.com/djpepozcx/image/upload/v1629493970/yosr/img4.jpg",
+      "title": "Skyview Bar",
+      "category": "Bar",
+      "address": "40 Journal Square, NG USA",
+      "price": "1500",
+      "type": "recomended",
+      "user": {
+        "name": "Hashir",
+        "img": "https://res.cloudinary.com/djpepozcx/image/upload/v1629494226/yosr/user4.jpg"
+      }
+    },
+    {
+      "id": 11,
+      "img": "https://res.cloudinary.com/djpepozcx/image/upload/v1629493984/yosr/img5.jpg",
+      "title": "Farmis Garden Restaurant",
+      "category": "Resturant",
+      "address": "40 Journal Square, NG USA",
+      "price": "1500",
+      "type": "popular",
+      "user": {
+        "name": "Paresh",
+        "img": "https://res.cloudinary.com/djpepozcx/image/upload/v1629494264/yosr/user6.jpg"
+      }
+    },
+    {
+      "id": 12,
+      "img": "https://res.cloudinary.com/djpepozcx/image/upload/v1629493996/yosr/img6.jpg",
+      "title": "Foundation Club",
+      "category": "Club",
+      "address": "40 Journal Square, NG USA",
+      "price": "1500",
+      "type": "recomended",
+      "user": {
+        "name": "Sean",
+        "img": "https://res.cloudinary.com/djpepozcx/image/upload/v1629494242/yosr/user5.jpg"
+      }
+    },
+    {
+      "id": 13,
+      "img": "https://res.cloudinary.com/djpepozcx/image/upload/v1629493929/yosr/img1.jpg",
+      "title": "Logan Brown",
+      "category": "Resturant",
+      "address": "40 Journal Square, NG USA",
+      "price": "1500",
+      "type": "popular",
+      "user": {
+        "name": "Sarah Taylor",
+        "img": "https://res.cloudinary.com/djpepozcx/image/upload/v1629494192/yosr/user2.jpg"
+      }
+    },
+    {
+      "id": 14,
+      "img": "https://res.cloudinary.com/djpepozcx/image/upload/v1629493949/yosr/img2.jpg",
+      "title": "Mall of America",
+      "category": "Shopping",
+      "address": "40 Journal Square, NG USA",
+      "price": "1500",
+      "type": "recomended",
+      "user": {
+        "name": "Steven Smith",
+        "img": "https://res.cloudinary.com/djpepozcx/image/upload/v1629494168/yosr/user1.jpg"
+      }
+    },
+    {
+      "id": 15,
+      "img": "https://res.cloudinary.com/djpepozcx/image/upload/v1629493960/yosr/img3.jpg",
+      "title": "York Street GYM",
+      "category": "Gym",
+      "address": "40 Journal Square, NG USA",
+      "price": "1500",
+      "type": "popular",
+      "user": {
+        "name": "James Andy",
+        "img": "https://res.cloudinary.com/djpepozcx/image/upload/v1629494212/yosr/user3.jpg"
+      }
+    },
+    {
+      "id": 16,
+      "img": "https://res.cloudinary.com/djpepozcx/image/upload/v1629493970/yosr/img4.jpg",
+      "title": "Skyview Bar",
+      "category": "Bar",
+      "address": "40 Journal Square, NG USA",
+      "price": "1500",
+      "type": "recomended",
+      "user": {
+        "name": "Hashir",
+        "img": "https://res.cloudinary.com/djpepozcx/image/upload/v1629494226/yosr/user4.jpg"
+      }
+    },
+    {
+      "id": 17,
+      "img": "https://res.cloudinary.com/djpepozcx/image/upload/v1629493984/yosr/img5.jpg",
+      "title": "Farmis Garden Restaurant",
+      "category": "Resturant",
+      "address": "40 Journal Square, NG USA",
+      "price": "1500",
+      "type": "popular",
+      "user": {
+        "name": "Paresh",
+        "img": "https://res.cloudinary.com/djpepozcx/image/upload/v1629494264/yosr/user6.jpg"
+      }
+    },
+    {
+      "id": 18,
+      "img": "https://res.cloudinary.com/djpepozcx/image/upload/v1629493996/yosr/img6.jpg",
+      "title": "Foundation Club",
+      "category": "Club",
+      "address": "40 Journal Square, NG USA",
+      "price": "1500",
+      "type": "recomended",
+      "user": {
+        "name": "Sean",
+        "img": "https://res.cloudinary.com/djpepozcx/image/upload/v1629494242/yosr/user5.jpg"
+      }
+    }
+  ]
+}
